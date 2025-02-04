@@ -1,0 +1,276 @@
+Chapter_10.txt:
+  - party detective
+  - striking thursday
+  - thursday afternoon
+  - closed library
+  - bed monday
+  - switch witch
+  - bedroom hours
+  - limousine today
+  - telephone miss
+  - car yesterday
+
+Chapter_1.txt:
+  - bedclothes spasmodically
+  - patient nurse
+  - replying nurse
+  - moved nurse
+  - clutched bedclothes
+  - better nurse
+  - protested nurses
+  - medicine starched
+  - bed calling
+  - bed relieved
+
+Chapter_11.txt:
+  - ambulance agonizing
+  - cupid sister
+  - nurse mrs
+  - slumber mrs
+  - dead tuesday
+  - deserted library
+  - beloved mother
+  - sleep mrs
+  - mother sudden
+  - murdered vera
+
+Chapter_13.txt:
+  - mansion opened
+  - hurried hall
+  - hurrying door
+  - house discovery
+  - hall springing
+  - window limousine
+  - thorne promptly
+  - promptly tuesday
+  - detective hastened
+  - bedroom demanded
+
+Chapter_2.txt:
+  - bed seized
+  - springing bed
+  - seized bathrobe
+  - bedroom wasting
+  - bathrobe unlocked
+  - bedroom halfway
+  - bed taking
+  - bed recounting
+  - entered bedroom
+  - glanced bed
+
+Chapter_3.txt:
+  - unheeded nurse
+  - patiently coroner
+  - trained nurse
+  - miss library
+  - bed terrified
+  - sofa swear
+  - bed cleaned
+  - night nurse
+  - lying sofa
+  - midnight bed
+
+Chapter_12.txt:
+  - silence limousine
+  - ladies mourning
+  - porter limousine
+  - limousine driven
+  - limousine crossed
+  - mourning mourning
+  - just limousine
+  - diplomatic dinner
+  - fall asleep
+  - chevy chase
+
+Chapter_16.txt:
+  - closing bedroom
+  - maids pneumonia
+  - pneumonia bad
+  - breakfasting upstairs
+  - walked pantry
+  - mansion losing
+  - pneumonia
+  - breakfast mrs
+  - vanished mrs
+  - whistling dismally
+
+Chapter_7.txt:
+  - trees father
+  - oak beams
+  - stained oak
+  - fireplace huge
+  - tables tiger
+  - house murder
+  - doctor paralyzed
+  - grandfather built
+  - moose deer
+  - tiger skins
+
+Chapter_6.txt:
+  - dinner miss
+  - taking dinner
+  - soup miss
+  - appointed dinner
+  - sick cat
+  - try soup
+  - tonight sandwiches
+  - hall dinner
+  - remainder dinner
+  - dinner announced
+
+Chapter_17.txt:
+  - leaving detective
+  - sheriff disarranged
+  - retreated bedroom
+  - vera retreated
+  - sheriff arrest
+  - sheriff hurry
+  - announcement arrest
+  - moved lunch
+  - leaving sister
+  - sheriff moved
+
+Chapter_15.txt:
+  - tools moonlight
+  - obscured moonlight
+  - moonlight shining
+  - moonlight pulled
+  - glint moonlight
+  - moonlight penetrated
+  - moonlight metal
+  - moonlight streaming
+  - electric lamp
+  - moonlight chimed
+
+Chapter_4.txt:
+  - closing library
+  - bolted pantry
+  - porter shaving
+  - burglars breaking
+  - coroner retreated
+  - autopsy mr
+  - coroner resuming
+  - pantry mopped
+  - snapped coroner
+  - performed autopsy
+
+Chapter_5.txt:
+  - office boy
+  - typewriter mrs
+  - teas professional
+  - paper dinners
+  - coroner announce
+  - editor _morning
+  - sitting typewriter
+  - turning typewriter
+  - telephone morning
+  - penciled daily
+
+Chapter_14.txt:
+  - old farmer
+  - leaked dinner
+  - dinner monday
+  - dinner tonight
+  - old black
+  - mansion dark
+  - dinner man
+  - old cato
+  - furniture heirloom
+  - house tuesday
+
+Chapter_19.txt:
+  - new nurse
+  - nurse hospital
+  - hospital return
+  - nurse inquired
+  - operatives strangled
+  - picked revolver
+  - tossed revolver
+  - revolver heard
+  - nurse
+  - forgot class
+
+Chapter_8.txt:
+  - nurses sleep
+  - sister asleep
+  - nurse late
+  - sister resting
+  - night nurses
+  - hours breakfasted
+  - nurses hours
+  - bedroom monday
+  - asleep bedroom
+  - asleep dorothy
+
+Chapter_9.txt:
+  - mansion increasing
+  - curtains dormer
+  - attic stairs
+  - stairs slammed
+  - torn diary
+  - turned dormer
+  - inspection attic
+  - attic remonstrated
+  - attic lined
+  - mansion
+
+Chapter_18.txt:
+  - waiting taxi
+  - turning car
+  - car reddened
+  - stopping car
+  - car highway
+  - started car
+  - phase murder
+  - stopped car
+  - murdered porters
+  - murder haven
+
+Chapter_23.txt:
+  - handcuffs jingled
+  - murder bruce
+  - bedroom monday
+  - elbow murder
+  - brainard tuesday
+  - prospect arrest
+  - click handcuffs
+  - murder traced
+  - criminal arrested
+  - bruce murder
+
+Chapter_22.txt:
+  - murder tuesday
+  - quarreled monday
+  - dinner threatened
+  - bedroom monday
+  - revolver despondent
+  - shrink furious
+  - scream broke
+  - startled revolver
+  - stopped tuesday
+  - diary burned
+
+Chapter_20.txt:
+  - porter emaciated
+  - murdered bruce
+  - choking sob
+  - asleep unconscious
+  - room tuesday
+  - wondered asleep
+  - old negro
+  - choked sob
+  - cato hunted
+  - house detective
+
+Chapter_21.txt:
+  - library missed
+  - library door
+  - library table
+  - steps library
+  - vera library
+  - nurses prepare
+  - removing bloodstains
+  - inquest tuesday
+  - noticing library
+  - murder removing
+
